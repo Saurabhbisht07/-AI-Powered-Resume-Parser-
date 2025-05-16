@@ -45,16 +45,6 @@ Matplotlib & Plotly	Data visualization tools
 SQLite	Lightweight local database
 
 🚀 How to Run the Application
-Follow these steps to get the project up and running:
-
-Clone the Repository
-
-bash
-Copy
-Edit
-git clone https://github.com/Deep4GB/Resume-NLP-Parser.git
-cd Resume-NLP-Parser
-Install Dependencies
 
 bash
 Copy
